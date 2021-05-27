@@ -1,0 +1,5 @@
+# santander-dev-week
+
+- SPRING BOOT
+- SPRING VALIDATION
+- SPRING DATA JPA
