@@ -16,3 +16,5 @@ spring:
     generate-ddl: false
     hibernate:
       ddl-auto: none
+application:
+  description: "Projeto criado na semana dev week DIO e Santander"
