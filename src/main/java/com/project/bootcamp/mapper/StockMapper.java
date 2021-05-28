@@ -37,4 +37,6 @@ public class StockMapper {
     public List<StockDTO> toDto(List<Stock> listStock){
         return listStock.stream().map(this::toDto).collect(Collectors.toList());
     }
+
+
 }
